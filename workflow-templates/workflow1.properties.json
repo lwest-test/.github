@@ -1,0 +1,8 @@
+{
+    "name": "Episcanner Test",
+    "description": "Episcanner Test starter workflow.",
+    "iconName": "octicon hubot",
+    "categories": [
+        "utilities"
+    ]
+}
